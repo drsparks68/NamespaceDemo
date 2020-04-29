@@ -11,7 +11,13 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
 
+
             Console.ReadLine();
         }
     }
 }
+
+
+//Pro-Tip: Use namespaces to organize your application logically.
+
+//Homework: Create a class file and change the namespace to something different.  Call a method in that class.
